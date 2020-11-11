@@ -2,4 +2,4 @@ Pierwszy wpis w nowym wpliku
 Drugi plik, proba commitu bez add (sledzenia)
 Zmiana do cofniecia po sumie kontrolnej
 Do wykonania rewicij
-Przywrocenie wczesniejszego commitu (ten wpis powinien zniknac)
+Przywrocenie wczesniejszego commitu
