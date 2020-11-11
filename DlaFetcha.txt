@@ -1,0 +1,1 @@
+Ten plik chce pobrac w serwera na lokalny poleceniem fetch, bez merge
