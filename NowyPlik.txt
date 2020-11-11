@@ -1,1 +1,2 @@
 Pierwszy wpis w nowym wpliku
+Drugi plik, proba commitu bez add (sledzenia)
